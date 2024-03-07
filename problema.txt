@@ -1,0 +1,14 @@
+"""
+Ler a planilha e substituir no texto no Word
+Passo a passo
+
+Quais bibliotecas usar: 
+ler planilas: Openpyxl
+criar arquivos word: Python-docx
+
+processo manual
+Abrir Excel
+- Copiar valores da planilha e colar no Word
+- Salvar o Word em uma pasta especifica ("Contratos")
+repetir o processos ate o final
+"""
